@@ -7,3 +7,6 @@ Console.Writeline("Hello World")
 $Python
 Print ("Hello World")
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
